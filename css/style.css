@@ -28,4 +28,5 @@ main > .tagline {
 .social {
 	font-size: 3em;
   padding: 10px;
+  text-align: center;
 }
