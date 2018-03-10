@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: turquoise;
+  background-color: seashell;
   color: black;
 }
 
@@ -23,6 +23,7 @@ main > .tagline {
 	text-align: center;
 	font-weight: 100;
   padding: 10px;
+  font-family: 'Lato', sans-serif;
 }
 
 .social {
