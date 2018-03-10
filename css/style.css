@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: seashell;
+  background: linear-gradient(to right, seashell , skyblue)
   color: black;
 }
 
