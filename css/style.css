@@ -1,5 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: beige;
+  color: black;
 }
 
 .centered {
@@ -13,21 +15,17 @@ main > .headline {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
 	font-weight: 600;
+  padding: 10px;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
 	text-align: center;
 	font-weight: 100;
+  padding: 10px;
 }
 
-main > .description {
-	font-size: 1.25rem;
-	text-align: center;
-	font-weight: 100;
-}
-
-.icons-social i {
+.social i {
 	font-size: 3em;
   padding: 10px;
 }
