@@ -17,12 +17,17 @@ main > .headline {
 
 main > .tagline {
 	font-size: 1.5rem;
-	margin: 1.5rem 0;
+	text-align: center;
 	font-weight: 100;
 }
 
 main > .description {
 	font-size: 1.25rem;
-	margin: 1.5rem 0;
+	text-align: center;
 	font-weight: 100;
+}
+
+.icons-social i {
+	font-size: 3em;
+  padding: 10px;
 }
